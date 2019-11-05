@@ -1,5 +1,5 @@
 # Image-feature-identifier
-ReadMe
+Using machine learning libraries to identify different image features including objects on it, number of objects, brightness, colour, temperature (whether a pitcure is warm or cold), biggest object size, saturation, and whether it has text or not.
 
 -  main program in image_feature.py, the program runs normally in terminal. Internet and libraries (imageai, PIL, keras, numpy, io, request, json, openCV, tensorflow, etc.) required to run.
 
