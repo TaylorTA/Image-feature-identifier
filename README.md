@@ -3,7 +3,7 @@ Using machine learning libraries to identify different image features including 
 
 -  main program in image_feature.py, the program runs normally in terminal. Internet and libraries (imageai, PIL, keras, numpy, io, request, json, openCV, tensorflow, etc.) required to run.
 
--  Standard input:
+-  Standard input (json):
 {
     "success": true,
     "data": {
